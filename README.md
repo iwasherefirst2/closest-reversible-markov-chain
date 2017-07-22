@@ -19,5 +19,5 @@ If you want that **A** and **U** have similar rare events (this implies that the
 U = getClosestSparse(A,m,1)
 ```
 
-Note that this is only usable if **m** has no zero entries.
+Note that the computation of the Markov chain **U** according to a special weighted norm is only usable if **m** has no zero entries. For the closest reversible Markov chain **U** according to the Frobenius-Norm zero entries are allowed.
 
