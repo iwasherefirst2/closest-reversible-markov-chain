@@ -33,7 +33,7 @@ then the closest reversible Markov chain according to the Frobenius norm is appr
   <img src="https://user-images.githubusercontent.com/1765602/68807109-81f5f700-0667-11ea-9f2f-d529c0cb487e.png">
 </p>
 
-For the full theory check out the paper: https://www.researchgate.net/publication/271449135_Computing_the_nearest_reversible_Markov_chain or the [Wikipedia article](https://en.wikipedia.org/wiki/Markov_chain#Closest_reversible_Markov_chain)
+For the full theory check out the [paper](https://www.researchgate.net/publication/271449135_Computing_the_nearest_reversible_Markov_chain ) or the [Wikipedia article](https://en.wikipedia.org/wiki/Markov_chain#Closest_reversible_Markov_chain)
 
 # How to use it?
 Go with Matlab in the folder where you have saved the file **getClosestSparse.m**.
