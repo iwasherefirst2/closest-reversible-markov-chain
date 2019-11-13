@@ -2,9 +2,11 @@
 A matlab script to compute the nearest reversible Markov chain.
 
 # What?
-For any Markov chain exists according to a given norm and probability vector a unique closest reversible Markov chain. For a simple example see https://en.wikipedia.org/wiki/Markov_chain#Closest_reversible_Markov_chain
+For any Markov chain exists according to a given norm and probability vector a unique closest reversible Markov chain.
 
-For the full theory check out the paper: https://www.researchgate.net/publication/271449135_Computing_the_nearest_reversible_Markov_chain
+![image](https://user-images.githubusercontent.com/1765602/68806665-9259a200-0666-11ea-943b-dc52b16fd2f1.png)
+
+For the full theory check out the paper: https://www.researchgate.net/publication/271449135_Computing_the_nearest_reversible_Markov_chain or the [Wikipedia article](https://en.wikipedia.org/wiki/Markov_chain#Closest_reversible_Markov_chain)
 
 # How to use it?
 Go with Matlab in the folder where you have saved the file **getClosestSparse.m**.
