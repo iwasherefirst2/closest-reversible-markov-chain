@@ -5,23 +5,33 @@ A matlab script to compute the nearest reversible Markov chain.
 For any Markov chain exists according to a given norm and probability vector a unique closest reversible Markov chain.
 For example, consider the followin Markov chain:
 
-![image](https://user-images.githubusercontent.com/1765602/68806995-4b1fe100-0667-11ea-9356-fe204e537432.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1765602/68806995-4b1fe100-0667-11ea-9356-fe204e537432.png">
+</p>
 
 This Markov chain is not reversible. According to the Frobenius norm the closest reversible Markov chain according to 
 
-![image](https://user-images.githubusercontent.com/1765602/68806912-21ff5080-0667-11ea-94e3-c56ec44956a9.png) 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1765602/68806912-21ff5080-0667-11ea-94e3-c56ec44956a9.png">
+</p>
 
 can be computed as 
 
-![image](https://user-images.githubusercontent.com/1765602/68807042-62f76500-0667-11ea-945b-1dbdd1221088.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1765602/68807042-62f76500-0667-11ea-945b-1dbdd1221088.png">
+</p>
 
 If we choose the probability vector as 
 
-![image](https://user-images.githubusercontent.com/1765602/68807075-730f4480-0667-11ea-8fe8-566536cdc48e.png), 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1765602/68807075-730f4480-0667-11ea-8fe8-566536cdc48e.png">
+</p>
 
 then the closest reversible Markov chain according to the Frobenius norm is approximately given by 
 
-![image](https://user-images.githubusercontent.com/1765602/68807109-81f5f700-0667-11ea-9f2f-d529c0cb487e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1765602/68807109-81f5f700-0667-11ea-9f2f-d529c0cb487e.png">
+</p>
 
 For the full theory check out the paper: https://www.researchgate.net/publication/271449135_Computing_the_nearest_reversible_Markov_chain or the [Wikipedia article](https://en.wikipedia.org/wiki/Markov_chain#Closest_reversible_Markov_chain)
 
