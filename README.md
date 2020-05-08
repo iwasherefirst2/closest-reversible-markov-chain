@@ -1,4 +1,4 @@
-# getRevMarkov
+# What is this?
 A matlab script to compute the nearest reversible Markov chain.
 
 # What?
