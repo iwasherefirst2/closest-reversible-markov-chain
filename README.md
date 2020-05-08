@@ -1,7 +1,6 @@
 # What is this?
 A matlab script to compute the nearest reversible Markov chain.
 
-# What?
 For any Markov chain exists according to a given norm and probability vector a unique closest reversible Markov chain.
 For example, consider the followin Markov chain:
 
